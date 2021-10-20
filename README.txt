@@ -6,7 +6,7 @@ Use the GUI to take power measures of the radio channel is very easy. If you wan
 5. You can now click "start drive test" to initiate the automatic take of measures.
 6. When you have finished your campaign (or you want to pause it) click "pause drive test" and then click “save”. After that see how the Command Window of Matlab asks you to enter a name for your campaing. BE SURE to enter it and press "enter" in your keyword. The campaign will save in your Current Matlab folder.
 7. If you want to make another campaing with the same parameter BE SURE to click the buttom "Conect" again before press “start dive testing”, just in case some trouble happens.
-It is recommended in case of taking several campaigns consecutive, as in the case of measuring in each line of lemon trees that, if you introduce manually configuration data into the Anritsu and it doesn´t match the data introduced manually; that data will obviously exchange for the data introduced in the GUI when the “Connect buttom” is clicked.
+It is recommended in case of taking several campaigns consecutive, as in the case of measuring on each line of lemon trees that, if you introduce manually configuration data into the Anritsu and it doesn´t match the data introduced manually; that data will obviously exchange for the data introduced in the GUI when the “Connect buttom” is clicked.
 
 
 Usar la GUI para tomar medidas de potencia del radiocanal es muy fácil. Si quieres modificar algo del código ten en cuenta cómo funciona Matlab Guide. Puedes encontrar información sobre esto en la redacción de mi TFG.
