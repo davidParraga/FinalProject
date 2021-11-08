@@ -26,9 +26,8 @@ See **Deployment** to know how to deploy the project.
 
 ## Deploy 📦 and use 🎛
 
-If you want to modify some of the code bear in mind how to works Matlab Guide. Please find information about it in my final project paper.
-_1. Download the project and open it in MATLAB by clicking "Open" > "Open..."._
-
+If you want to modify some of the code bear in mind how to works Matlab Guide. Please find information about it in my final project paper.\
+_1. Download the project and open it in MATLAB by clicking "Open" > "Open..."._\
 _2. Go to sicomo.m_
 
 _3. Type the IP of your Anritsu device in the section "Instrument Connection" (lines 159 and 165)._
