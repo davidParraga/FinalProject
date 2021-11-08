@@ -8,10 +8,10 @@ results.
 
 ## Main files 🗂
 
-"sicomo.m" -> Logic of the App.
-"sicomo.fig" -> Interface of the App.
-"ditancia.m" -> Received power as a function of distance from the transmitter.
-"angulo.m" -> It calculates the received power as a function of the angle with respect to the transmitter.
+"sicomo.m" -> Logic of the App.\
+"sicomo.fig" -> Interface of the App.\
+"ditancia.m" -> Received power as a function of distance from the transmitter.\
+"angulo.m" -> It calculates the received power as a function of the angle with respect to the transmitter.\
 
 
 ## Starting 🚀
