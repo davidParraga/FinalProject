@@ -28,16 +28,16 @@ See **Deployment** to know how to deploy the project.
 
 If you want to modify some of the code bear in mind how to works Matlab Guide. Please find information about it in my final project paper.
 _1. Download the project and open it in MATLAB by clicking "Open" > "Open..."._
-2. Go to sicomo.m
-3. Type the IP of your Anritsu device in the section "Instrument Connection" (lines 159 and 165).
-4. Press the "Run" buttom located on top of the Matlab aplication.
-5. A window called "sicomo" will open. Fill in the blanks and pulse "Conect".
-6. You can now click "start drive test" to initiate the automatic take of measures.
-7. When you have finished your campaign (or you want to pause it) click "pause drive test" and then click “save”. After that see how the Command Window of Matlab asks you to enter
-   a name for your campaing. BE SURE to enter it and press "enter" in your keyword. The campaign will save in your Current Matlab folder.
-8. If you want to make another campaing with the same parameter BE SURE to click the buttom "Conect" again before press “start dive testing”, just in case some trouble happens.
+_2. Go to sicomo.m_
+_3. Type the IP of your Anritsu device in the section "Instrument Connection" (lines 159 and 165)._
+_4. Press the "Run" buttom located on top of the Matlab aplication._
+_5. A window called "sicomo" will open. Fill in the blanks and pulse "Conect"._
+_6. You can now click "start drive test" to initiate the automatic take of measures._
+_7. When you have finished your campaign (or you want to pause it) click "pause drive test" and then click “save”. After that see how the Command Window of Matlab asks you to enter
+   a name for your campaing. BE SURE to enter it and press "enter" in your keyword. The campaign will save in your Current Matlab folder._
+_8. If you want to make another campaing with the same parameter BE SURE to click the buttom "Conect" again before press “start dive testing”, just in case some trouble happens.
    It is recommended in case of taking several campaigns consecutive, as in the case of measuring on each line of lemon trees that, if you introduce manually configuration data into 
-   the Anritsu and it doesn´t match the data introduced manually; that data will obviously exchange for the data introduced in the GUI when the “Connect buttom” is clicked.
+   the Anritsu and it doesn´t match the data introduced manually; that data will obviously exchange for the data introduced in the GUI when the “Connect buttom” is clicked._
 
 ## Authors ✒️
 
